@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{59972000-A102-93F3-E252-4AFE00D882C8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PongMaster.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ball.cs" Line="14" Column="4" />
+      <File FileName="Assets/Scripts/PongMaster.cs" Line="10" Column="27" />
+      <File FileName="Assets/Scripts/PaddleAI.cs" Line="37" Column="28" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="39" Column="19" />
+      <File FileName="Assets/Scripts/ScoreWall.cs" Line="28" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pong" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PongMaster.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b7501dce-cd57-4e4e-a536-9b84a542ecc8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
